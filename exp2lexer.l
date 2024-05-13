@@ -22,3 +22,9 @@ int main() {
     yylex();
     return 0;
 }
+
+how to run:
+flex lexer.l
+gcc -o lexer lex.yy.c -lfl
+
+./lexer

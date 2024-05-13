@@ -22,3 +22,7 @@ e.printStackTrace();
 }
 }
 }
+
+how to save:
+javac filename.java
+java filename

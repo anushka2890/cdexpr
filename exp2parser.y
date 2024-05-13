@@ -43,3 +43,9 @@ int yyerror(char *s) {
 }
 
 int yylex();
+
+how to run:
+lex lexer.l
+yacc -d parser.y
+gcc lex.yy.c y.tab.c -o parser -ll
+./parser

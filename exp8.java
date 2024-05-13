@@ -48,3 +48,7 @@ int result = traverseAndCalculate(root);
 System.out.println("Result: " + result);
 }
 }
+
+how to save:
+javac filename.java
+java filename

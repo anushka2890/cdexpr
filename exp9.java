@@ -22,3 +22,7 @@ codeBuilder.append("}");
 return codeBuilder.toString();
 }
 }
+
+how to save:
+javac filename.java
+java filename

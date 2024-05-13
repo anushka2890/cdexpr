@@ -16,3 +16,6 @@ System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 scanner.close();
 }
 }
+how to save:
+javac filename.java
+java filename

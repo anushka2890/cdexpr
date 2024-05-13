@@ -105,3 +105,7 @@ System.out.println("Input string rejected by grammar.");
 }
 }
 }
+
+how to save:
+javac filename.java
+java filename

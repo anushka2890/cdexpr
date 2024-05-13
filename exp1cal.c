@@ -40,3 +40,10 @@ int main() {
 
     return 0;
 }
+
+
+how to run:
+cd path/to/directory
+gcc -o exp1cal exp1cal.c
+./exp1cal
+

@@ -16,3 +16,9 @@ int main() {
     yylex();
     return 0;
 }
+
+
+how to save:
+flex scanner.l
+gcc lex.yy.c -o lexer -lfl
+./lexer
