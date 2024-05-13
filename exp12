@@ -1,3 +1,6 @@
+12 Write a program to generate machine code for an indexed assignment
+statement
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 public class GenerateMachineCodeIndexedAssignment {

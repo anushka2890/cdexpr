@@ -1,3 +1,5 @@
+Write a program using FLEX.
+
 %{
 #include <stdio.h>
 int linenum = 0;

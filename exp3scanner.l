@@ -1,3 +1,5 @@
+Implementation of scanner by specifying Regular Expressions.
+
 %{
 #include <stdio.h>
 %}
