@@ -57,3 +57,9 @@ int yylex() {
         return -1; // Error
     }
 }
+
+HOW TO RUN:
+flex calculator.l
+bison -dy calculator.y
+gcc lex.yy.c y.tab.c -o calculator
+./calculator
